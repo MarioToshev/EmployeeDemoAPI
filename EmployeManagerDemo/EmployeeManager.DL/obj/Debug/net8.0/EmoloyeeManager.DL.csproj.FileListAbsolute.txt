@@ -1,0 +1,14 @@
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\bin\Debug\net8.0\EmoloyeeManager.DL.deps.json
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\bin\Debug\net8.0\EmoloyeeManager.DL.dll
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\bin\Debug\net8.0\EmoloyeeManager.DL.pdb
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\EmoloyeeManager.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\EmoloyeeManager.DL.AssemblyInfoInputs.cache
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\EmoloyeeManager.DL.AssemblyInfo.cs
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\EmoloyeeManager.DL.csproj.CoreCompileInputs.cache
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\EmoloyeeManager.DL.dll
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\refint\EmoloyeeManager.DL.dll
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\EmoloyeeManager.DL.pdb
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\ref\EmoloyeeManager.DL.dll
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\bin\Debug\net8.0\EmoloyeeManager.DL.runtimeconfig.json
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\EmoloyeeManager.DL.csproj.AssemblyReference.cache
+C:\Users\mario\RiderProjects\EmployeManagerDemo\EmoloyeeManager.DL\obj\Debug\net8.0\EmoloyeeManager.DL.genruntimeconfig.cache
